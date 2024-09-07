@@ -90,5 +90,3 @@ This dataset provides key insights into patient care, hospital operations, and f
 ## Dashboard Screenshot
 
 ![Hospital Insights Dashboard](dashboard.png)
-
-Theme credit to www.datapears.com!
